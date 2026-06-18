@@ -1,4 +1,4 @@
-//inorder//
+******//INORDER//******
 
 
 
@@ -46,7 +46,7 @@ public class Main {
 
 
 
-//pre order //
+*****//Preorder//*****
 
 class Node {
     int key;
