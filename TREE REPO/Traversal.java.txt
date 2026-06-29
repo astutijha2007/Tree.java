@@ -171,6 +171,9 @@ public class Main {
 }
 
 
+
+
+
 // searching//
 
 
@@ -246,7 +249,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-s
+
         Main tree = new Main();
 
         tree.root = new Node(15);
